@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\bin\Debug\QueueuEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\bin\Debug\QueueuEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\bin\Debug\QueueuEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\obj\Debug\QueueuEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\obj\Debug\QueueuEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\obj\Debug\QueueuEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\obj\Debug\QueueuEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QueueuEx\QueueuEx\obj\Debug\QueueuEx.pdb
